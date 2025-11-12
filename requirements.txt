@@ -1,0 +1,10 @@
+streamlit>=1.22
+pandas>=1.5
+openpyxl>=3.0
+sentence-transformers>=2.2
+faiss-cpu>=1.7.4
+llama-cpp-python>=0.1.77
+tqdm
+python-dotenv
+markdown2
+python-multipart
