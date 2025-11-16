@@ -9,7 +9,7 @@ from datetime import datetime
 LOG_PATH = "logs/interactions.csv"
 
 st.set_page_config(page_title="PLV Intelligent Help Center", layout="wide")
-st.title("🎓 PLV Intelligent Help Center (RAG + LLaMA)")
+st.title("PULV Intelligent Help Center")
 
 
 def log_interaction(question, answer, source_found):
@@ -34,7 +34,7 @@ def log_interaction(question, answer, source_found):
         df.to_csv(LOG_PATH, index=False)
 
 
-query = st.text_input("Pose ta question 👇")
+query = st.text_input("Pose ta question :", "")
 
 if st.button("Rechercher"):
     if query.strip() == "":

@@ -22,7 +22,7 @@ def load_dataset():
         df["Thématiques"].fillna("") + " - " +
         df["Écoles"].fillna("")
     )
-
+    
     return df
 
 

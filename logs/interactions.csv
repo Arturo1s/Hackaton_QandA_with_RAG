@@ -29,3 +29,15 @@ timestamp,question,answer,source_found
 2025-11-16 19:46:12.432083,Le pole est il ouvert le weekend,"<p>Le pôle est ouvert du lundi au vendredi de 7h30 à 21h, mais il peut être exceptionnellement fermé à certaines périodes définies dans vos calendriers (été, noël, férié...). Le samedi, il est ouvert de 7h30 à 13h. Pour les périodes de congés, le pôle est ouvert car d'autres étudiants peuvent avoir cours à cette période.</p>
 
 <p>Il est à noter que le Campus de l'Arche, qui est réservé à Executive Education, est ouvert de 7h30 à 20h00, ce qui inclut les week-ends.</p>",True
+2025-11-16 19:58:00.641153,Quel est le mail du département des sports,<p>La réponse au mail du département des sports est : sports@devinci.fr</p>,True
+2025-11-16 20:01:19.912727,ou est le local de musique mix,"<p>Je suis désolé, mais je n'ai pas trouvé d'information sur le local de musique mix dans la base de connaissances fournie.</p>
+<p>Désolé, aucune réponse exacte n’a été trouvée. Merci de remplir le formulaire ou de contacter : 
+<a href='mailto:guillaume.douceron@devinci.fr'>guillaume.douceron@devinci.fr</a></p>",False
+2025-11-16 20:01:33.350227,ou est la cafeteria,"<p><b>La cafeteria est située dans le pole :</b></p>
+<p>Des espaces de restauration avec micro onde et distributeurs sont à disposition des étudiants sur tous nos campus.</p>
+
+(Note : J'ai utilisé le contexte fourni pour répondre à la question du student)",True
+2025-11-16 20:01:58.929955,horaire cafeteria,"<p><b>Heures de la cafétéria :</b> Des espaces de restauration avec micro onde et distributeurs sont disponibles aux étudiants sur tous nos campus, mais il n'y a pas de réponse spécifique sur les heures d'ouverture de la cafétéria.</p>
+
+<p>Désolé, aucune réponse exacte n’a été trouvée. Merci de remplir le formulaire ou de contacter : 
+<a href='mailto:guillaume.douceron@devinci.fr'>guillaume.douceron@devinci.fr</a></p>",False
