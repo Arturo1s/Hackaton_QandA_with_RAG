@@ -1,0 +1,31 @@
+timestamp,question,answer,source_found
+2025-11-16 19:42:18.748843,"Bonjour, Y a t il une infirmerie ?","<p>Il existe une infirmerie sur le campus de la faculté Paris Val de Oise (PLV) de l'Université Paris Saclay. Vous pouvez vous y rendre en cas de besoin de soins ou de conseils.</p>
+
+<p>Si vous avez des questions ou des préoccupations, vous pouvez également contacter les services de santé de l'université à l'adresse : <a href='mailto:service.sante@univ-poitiers.fr'>service.sante@univ-poitiers.fr</a></p>",True
+2025-11-16 19:42:46.505211,quel est son numéro de salle,"<p>Le numéro de la salle de sport n'est pas mentionné dans le contexte fourni. Désolé, aucune réponse exacte n'a été trouvée. Merci de remplir le formulaire ou de contacter : 
+<a href='mailto:guillaume.douceron@devinci.fr'>guillaume.douceron@devinci.fr</a></p>",False
+2025-11-16 19:44:01.784130,quel est son numéro de salle de l'infirmerie,"<p>La réponse à votre question est disponible dans la base de connaissances.</p>
+
+<p><b>Numéro de salle de l'infirmerie :</b> Le contexte ne fournit pas d'information spécifique sur le numéro de salle de l'infirmerie. Cependant, vous pouvez essayer de trouver cette information dans la section des services médicaux ou en contactant directement l'infirmerie.</p>
+
+<p>Si vous avez besoin d'aide supplémentaire, vous pouvez contacter :</p>
+
+<p><a href='mailto:guillaume.douceron@devinci.fr'>guillaume.douceron@devinci.fr</a></p>",True
+2025-11-16 19:44:27.873589,ou trouver pascal pinot,"<p>Je suis désolé, mais je n'ai pas trouvé d'information sur Pascal Pinot dans la base de connaissances fournie.</p>
+<p>Désolé, aucune réponse exacte n’a été trouvée. Merci de remplir le formulaire ou de contacter : 
+<a href='mailto:guillaume.douceron@devinci.fr'>guillaume.douceron@devinci.fr</a></p>",False
+2025-11-16 19:44:51.124973,ou se trouve la sale de sport,"<p>La salle de sport se trouve au 4ème Étage du Learning Center, bureau I.401.</p>
+<p>Vous pouvez contacter Céline GRAET? au 01.81.00.27.38 ou par email à <a href='mailto:sports@devinci.fr'>sports@devinci.fr</a></p>",True
+2025-11-16 19:45:16.622447,ou se trouve la salle de sport,"<p>La salle de sport se trouve au <b>4ème Étage du Learning Center</b>, dans le bureau <b>I.401</b>.</p>
+<p>Vous pouvez également contacter le département des sports par email à l'adresse <a href='mailto:sports@devinci.fr'>sports@devinci.fr</a> ou par téléphone au <b>01.81.00.27.38</b>.</p>",True
+2025-11-16 19:45:29.013853,ou se trouve la bureau de sport,"<p><b>La réponse à votre question est : </b></p>
+<p><b>Le bureau du département des sports se situe au 4ème Étage du Learning Center : bureau I.401.</b></p>
+<p>Vous pouvez également contacter Céline GRAET? au 01.81.00.27.38 ou par email à <a href='mailto:sports@devinci.fr'>sports@devinci.fr</a></p>",True
+2025-11-16 19:45:49.493890,quels sont les horaires du poles de la defense,"<p>Les horaires du pôle de la Défense sont identiques à ceux du pôle principal, qui sont les suivants :</p>
+<p><b>Horaires du bâtiment :</b> Le pôle ouvre à 7h30 et ferme à 21h du lundi au vendredi et de 7h30 à 13h le samedi. Attention, il peut être exceptionnellement fermé à certaines périodes définies dans vos calendriers (été, noël, férié…). Si votre promotion est en congés, le pole est ouvert car d'autres étudiants peuvent avoir cours à cette période.</p>
+<p><b>Horaires du Campus de l'Arche (Executive Education) :</b> Le Campus de l'Arche est ouvert de 7 h 30 à 20 h 00.</p>
+
+<p>Par conséquent, les horaires du pôle de la Défense sont les mêmes que ceux du pôle principal.</p>",True
+2025-11-16 19:46:12.432083,Le pole est il ouvert le weekend,"<p>Le pôle est ouvert du lundi au vendredi de 7h30 à 21h, mais il peut être exceptionnellement fermé à certaines périodes définies dans vos calendriers (été, noël, férié...). Le samedi, il est ouvert de 7h30 à 13h. Pour les périodes de congés, le pôle est ouvert car d'autres étudiants peuvent avoir cours à cette période.</p>
+
+<p>Il est à noter que le Campus de l'Arche, qui est réservé à Executive Education, est ouvert de 7h30 à 20h00, ce qui inclut les week-ends.</p>",True
